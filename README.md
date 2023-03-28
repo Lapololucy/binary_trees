@@ -1,5 +1,6 @@
-Binary Tree is a special datastructure used for data storage purposes. A binary tree has a special condition that each node can have a maximum of two children. A binary tree has the benefits of both an ordered array and a linked list as search is as quick as in a sorted array and insertion or deletion operation are as fast as in linked list.
-$'/c/Users/P\'LUCY/Desktop/alx pre coure/binary_tree.jpg'
+Binary Tree is a special datastructure used for data storage purposes. A binary tree has a special condition that each node can have a maximum of two children. A binary tree has the benefits of both an ordered array and a linked list as search is as quick as in a sorted array and insertion or deletion operation are as fast as in linked
+![binary_tree](https://user-images.githubusercontent.com/113608901/228190444-43379239-c0e7-420b-8428-8e9168dd6692.jpg)
+
 
 Important Terms
 Following are the important terms with respect to tree.
@@ -31,7 +32,8 @@ Traversing − Traversing means passing through nodes in a specific order.
 Levels − Level of a node represents the generation of a node. If the root node is at level 0, then its next child node is at level 1, its grandchild is at level 2, and so on.
 
 keys − Key represents a value of a node based on which a search operation is to be carried out for a node.
-$'/c/Users/P\'LUCY/Desktop/alx pre coure/binary tree 1.jpg'
+![binary tree 1](https://user-images.githubusercontent.com/113608901/228190624-7e0f5672-c73c-453a-a5b7-4b5f6c8db9d9.jpg)
+
 We're going to implement tree using node object and connecting them through references.
 
 Tree Node
